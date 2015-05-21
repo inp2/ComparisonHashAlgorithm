@@ -1,0 +1,540 @@
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.3
+Time: 2110400
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.4
+Time: 28900
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.5
+Time: 104400
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.6
+Time: 132600
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.7
+Time: 118700
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.8
+Time: 111200
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.9
+Time: 19800
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.95
+Time: 26100
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.98
+Time: 29400
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.3
+Time: 58800
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.4
+Time: 47400
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.5
+Time: 58100
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.6
+Time: 54000
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.7
+Time: 41900
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.8
+Time: 46400
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.9
+Time: 58400
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.95
+Time: 58100
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.98
+Time: 46100
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.3
+Time: 110300
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.4
+Time: 102400
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.5
+Time: 94100
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.6
+Time: 105900
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.7
+Time: 61900
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.8
+Time: 103600
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.9
+Time: 90100
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.95
+Time: 91500
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.98
+Time: 113800
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.3
+Time: 195500
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.4
+Time: 209400
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.5
+Time: 202900
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.6
+Time: 205900
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.7
+Time: 192000
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.8
+Time: 210200
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.9
+Time: 199200
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.95
+Time: 190800
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.98
+Time: 178600
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.3
+Time: 405500
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.4
+Time: 177300
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.5
+Time: 378300
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.6
+Time: 368800
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.7
+Time: 175900
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.8
+Time: 408200
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.9
+Time: 306400
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.95
+Time: 449200
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.98
+Time: 329800
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.3
+Time: 4675900
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.4
+Time: 657100
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.5
+Time: 42800
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.6
+Time: 45500
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.7
+Time: 44900
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.8
+Time: 48900
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.9
+Time: 45500
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.95
+Time: 47300
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.98
+Time: 47600
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.3
+Time: 87500
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.4
+Time: 86800
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.5
+Time: 105800
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.6
+Time: 100900
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.7
+Time: 91100
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.8
+Time: 79700
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.9
+Time: 94800
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.95
+Time: 120300
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.98
+Time: 86900
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.3
+Time: 164100
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.4
+Time: 183000
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.5
+Time: 164600
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.6
+Time: 167500
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.7
+Time: 161800
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.8
+Time: 183400
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.9
+Time: 169900
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.95
+Time: 800500
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.98
+Time: 186000
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.3
+Time: 348400
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.4
+Time: 349800
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.5
+Time: 334400
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.6
+Time: 301700
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.7
+Time: 331000
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.8
+Time: 343400
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.9
+Time: 356300
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.95
+Time: 1527700
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.98
+Time: 340700
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.3
+Time: 699100
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.4
+Time: 659100
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.5
+Time: 3008600
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.6
+Time: 737400
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.7
+Time: 679800
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.8
+Time: 684800
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.9
+Time: 670700
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.95
+Time: 657700
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.98
+Time: 657700
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.3
+Time: 75020800
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.4
+Time: 6251500
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.5
+Time: 6489300
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.6
+Time: 6812700
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.7
+Time: 6091800
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.8
+Time: 5598000
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.9
+Time: 5938500
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.95
+Time: 3389900
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.98
+Time: 1891700
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.3
+Time: 4063500
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.4
+Time: 4163600
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.5
+Time: 2374100
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.6
+Time: 2615000
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.7
+Time: 2376800
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.8
+Time: 2548100
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.9
+Time: 2556300
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.95
+Time: 2415000
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.98
+Time: 2552200
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.3
+Time: 3289000
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.4
+Time: 3287700
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.5
+Time: 3447800
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.6
+Time: 3888600
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.7
+Time: 3172900
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.8
+Time: 3442000
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.9
+Time: 3341600
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.95
+Time: 3533000
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.98
+Time: 3202800
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.3
+Time: 5392200
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.4
+Time: 5382500
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.5
+Time: 5492900
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.6
+Time: 5621600
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.7
+Time: 5452500
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.8
+Time: 5453100
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.9
+Time: 5624600
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.95
+Time: 5963100
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.98
+Time: 5293900
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.3
+Time: 7836400
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.4
+Time: 8012600
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.5
+Time: 8041300
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.6
+Time: 11442200
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.7
+Time: 7767200
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.8
+Time: 7883400
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.9
+Time: 8159500
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.95
+Time: 7979200
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.98
+Time: 8112700
+
